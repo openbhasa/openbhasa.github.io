@@ -1,13 +1,8 @@
 ## About OpenBhasa
 
-OpenBhasa is a site devoted to hosting speech and language resources and quality reports for the same. These resources can be used as training corpora for speech recognition and other language work. 
-Our focus is indian languages and resources that can be used in industry.
+OpenBhasa is a site devoted to hosting speech and language resources. These resources can be used as training corpora for speech recognition and other language work. Our focus is indian languages and quality datasets that mimic real world conversations (vocab, code switching, optimal utterance length and disfluencies).
 
-Part of our goal is to publish relevance reports for other public data. Many of these reports are extremely biased by our experiences in creating commercial ASR/TTS/NLP products.
-
-If you want to download things from this site, please download them one at a time, and please don't use any fancy software-- just download things from your browser or use 'wget'. 
-
-Our goals is be openslr for Indian Languages.
+We also want to publish relevance reports for other public data. Many of these reports are extremely biased by our experiences in creating commercial ASR/TTS/NLP products.
 
 
 ## Status
