@@ -2,9 +2,12 @@
 
 OpenBhasa is an organization devoted to solving dataset issues for building Deep Learning Models in Indian Languages.
 
-We host speech and language resources. These resources can be used as training corpora for speech recognition and other language work. Our focus is indian languages and quality datasets that mimic real world conversations (vocab, code switching, optimal utterance length and disfluencies).    
-
-We publish relevance reports for other public data. Many of these reports are extremely biased by our experiences in creating commercial ASR/TTS/NLP products.   
+Our goals are :
+1. Host high quality speech and language resources.   
+ These resources can be used as training corpora for speech recognition and other language work. Our focus is indian languages, narrowband audios and real world conversations (colloquial vocab, code switching, optimal utterance length and disfluencies). Because of privacy concerns we have to create public datasets from scratch and can not borrow production datasets. We hope someday these datasets will become benchmarks for commercial and academic research on ASR/NLP in Indian languages.
+   
+2. Publish relevance reports for other public datasets.   
+Multiple public datasets are available, but they vary in quality and relevance for training a ASR system. Some of them use a vocab which is not used by most consumers, while others are not narrowband and do not have any of the signal issues that we see in real phone calls. Our relevance reports are extremely biased by our experiences in creating commercial ASR/TTS/NLP products. We hope some of these reports will help others in creating high quality audio datasets.     
 
 
 ## Our Background
