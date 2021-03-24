@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to OpenBhasa
+OpenBhasa is a NPO that publishes data and data quality reports for building ASR and LM for Indian Languages for business use. Based on our work on these technologies, one of the biggest hurdle in using AI in Indian context is the lack of quality data like [switchboard](https://catalog.ldc.upenn.edu/LDC97S62) for Indian languages. While multiple datasets are available they either do not match realistic phone signals (compression/noise/sampling rate) or use words that are tangential to what is used by an average person who calls any business.
 
-You can use the [editor on GitHub](https://github.com/openbhasa/openbhasa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Status
+We are in very early stages, we neither have public data, nor members at this point. By May 2021, we should have our first data reports on existing indian language public data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## References
+Some popular indian language audio datasets are   
+| Dataset | Language | Publisher | Summary| Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|[Shruti](http://cse.iitkgp.ac.in/~pabitra/shruti_corpus.html)| Bengali | IITKGP| 21.64 hours, MF split 75:25, Speaker Count: 34| Insufficient for DL, Good base for Kaldi|
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/openbhasa/openbhasa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Support or Contact
+For details please contact openbhasaATGoogleMailDotCom, Replace GoogleMail with common google mail suffix. Sorry about the inconvenience, but this is done to throw off page crawlers that mine emails.
